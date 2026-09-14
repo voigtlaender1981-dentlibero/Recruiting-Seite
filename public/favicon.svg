@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <!-- Clean soft background for favicon visibility -->
+  <rect width="120" height="120" rx="28" fill="#FAF8F5"/>
+  <g transform="translate(14, 16)">
+    <!-- Grey top swoosh accent (#4d4d4d) -->
+    <path
+      d="M 52 14 C 64 12, 78 18, 86 28 C 76 26, 65 24, 52 23 C 48 20, 49 16, 52 14 Z"
+      fill="#4d4d4d"
+    />
+    <!-- Red molar tooth contour loop (#721422) -->
+    <path
+      d="M 78 68 C 65 72, 45 74, 28 72 C 14 70, 6 56, 8 40 C 9 26, 18 14, 30 14 C 40 14, 46 22, 53 23 C 64 25, 78 30, 84 42 C 87 48, 86 56, 82 62 C 80 65, 76 67, 72 68"
+      stroke="#721422"
+      stroke-width="5.5"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      fill="none"
+    />
+    <!-- Tooth root/crest accent line -->
+    <path
+      d="M 22 52 C 22 62, 32 68, 52 68 C 66 68, 76 66, 84 60"
+      stroke="#721422"
+      stroke-width="4.5"
+      stroke-linecap="round"
+      fill="none"
+      opacity="0.85"
+    />
+  </g>
+</svg>

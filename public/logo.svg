@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 140" fill="none">
+  <!-- Tooth Silhouette Graphic Mark (Official CI) -->
+  <g id="tooth-mark" transform="translate(10, 8)">
+    <!-- Top Dark Grey (#4d4d4d) Accent Swoop -->
+    <path
+      d="M 68 22 C 84 18, 102 24, 114 36 C 100 34, 86 32, 70 31 C 65 27, 65 23, 68 22 Z"
+      fill="#4d4d4d"
+    />
+    <!-- Perlrubinrot (#721422) Continuous Tooth Silhouette Outline -->
+    <path
+      d="M 120 84 C 98 90, 68 92, 42 90 C 20 88, 8 70, 10 50 C 12 30, 24 18, 42 18 C 55 18, 64 28, 72 31 C 88 34, 106 42, 115 56 C 120 64, 118 76, 110 82"
+      stroke="#721422"
+      stroke-width="7"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      fill="none"
+    />
+    <path
+      d="M 28 66 C 30 78, 46 86, 76 86 C 98 86, 114 82, 126 74"
+      stroke="#721422"
+      stroke-width="5.5"
+      stroke-linecap="round"
+      fill="none"
+      opacity="0.9"
+    />
+  </g>
+
+  <!-- Typography matching Logo112018.png / Logo112018.svg -->
+  <g id="text-brand">
+    <!-- "ZAHNARZT" in Perlrubinrot #721422 (Rounded Modernist Sans) -->
+    <text
+      x="148"
+      y="76"
+      fill="#721422"
+      font-family="'Plus Jakarta Sans', 'Outfit', system-ui, -apple-system, sans-serif"
+      font-size="46"
+      font-weight="800"
+      letter-spacing="0.04em"
+    >
+      ZAHNARZT
+    </text>
+
+    <!-- "PRAXIS" in Cool Gray 10 C #4d4d4d (Bold Geometric Sans) -->
+    <text
+      x="400"
+      y="76"
+      fill="#4d4d4d"
+      font-family="'Plus Jakarta Sans', 'Montserrat', system-ui, -apple-system, sans-serif"
+      font-size="46"
+      font-weight="800"
+      letter-spacing="0.06em"
+    >
+      PRAXIS
+    </text>
+
+    <!-- "ANTJE VOIGTLÄNDER" in Cool Gray 10 C #4d4d4d (Spaced Geometric Sans) -->
+    <text
+      x="200"
+      y="112"
+      fill="#4d4d4d"
+      font-family="'Plus Jakarta Sans', 'Montserrat', system-ui, -apple-system, sans-serif"
+      font-size="22"
+      font-weight="600"
+      letter-spacing="0.22em"
+    >
+      ANTJE VOIGTLÄNDER
+    </text>
+  </g>
+</svg>
